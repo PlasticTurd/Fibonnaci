@@ -57,5 +57,6 @@ int main ()
         CurrentNumber = NextNumber;
         t++;
     }
-    system("pause");  
+    cin.get();
+    cin.get();
 }

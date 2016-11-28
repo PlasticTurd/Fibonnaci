@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=welcome_1
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/welcome_1
+CND_ARTIFACT_NAME_Debug=fibonnaci
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/fibonnaci
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=welcome1.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/welcome1.tar
+CND_PACKAGE_NAME_Debug=fibonnaci.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/fibonnaci.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=welcome_1
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/welcome_1
+CND_ARTIFACT_NAME_Release=fibonnaci
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/fibonnaci
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=welcome1.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/welcome1.tar
+CND_PACKAGE_NAME_Release=fibonnaci.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/fibonnaci.tar
 #
 # include compiler specific variables
 #
